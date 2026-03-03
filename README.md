@@ -76,6 +76,21 @@
 <tr>
 <td width="50%" valign="top">
 
+<h3 align="center">🚂 choochoo-loader</h3>
+<p align="center">
+<a href="https://github.com/wowitsjack/choochoo-loader">
+<img src="https://img.shields.io/badge/game_trainer_loader-CF222E?style=for-the-badge&logoColor=FFFFFF" alt="choochoo-loader"/>
+</a>
+</p>
+<p align="center">trainer/cheat loader for Proton and WINE gaming setups. works on Steam Deck, SteamOS, macOS, and Linux.</p>
+<p align="center">
+<img src="https://img.shields.io/github/stars/wowitsjack/choochoo-loader?style=flat-square&color=2DA44E&labelColor=F6F8FA" alt="stars"/>
+<img src="https://img.shields.io/github/forks/wowitsjack/choochoo-loader?style=flat-square&color=0969DA&labelColor=F6F8FA" alt="forks"/>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
 <h3 align="center">🔓 freeMarkable</h3>
 <p align="center">
 <a href="https://github.com/wowitsjack/freeMarkable">
@@ -89,50 +104,35 @@
 </p>
 
 </td>
-<td width="50%" valign="top">
-
-<h3 align="center">🔬 MICE</h3>
-<p align="center">
-<a href="https://github.com/wowitsjack/MICE">
-<img src="https://img.shields.io/badge/forensic_recovery-CF222E?style=for-the-badge&logoColor=FFFFFF" alt="MICE"/>
-</a>
-</p>
-<p align="center">metadata informed carving engine. high-performance forensic recovery for catastrophically damaged ext4 filesystems.</p>
-<p align="center">
-<img src="https://img.shields.io/github/stars/wowitsjack/MICE?style=flat-square&color=2DA44E&labelColor=F6F8FA" alt="stars"/>
-<img src="https://img.shields.io/badge/lang-C++-0969DA?style=flat-square&labelColor=F6F8FA" alt="C++"/>
-</p>
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">💻 Surface Linux Lid Fix</h3>
+<h3 align="center">🎯 Hitman Peacock SteamDeck</h3>
 <p align="center">
-<a href="https://github.com/wowitsjack/Surface-Linux-Lid-Fix">
-<img src="https://img.shields.io/badge/kernel_service-0969DA?style=for-the-badge&logoColor=FFFFFF" alt="Surface-Linux-Lid-Fix"/>
+<a href="https://github.com/wowitsjack/Hitman-Peacock-SteamDeck">
+<img src="https://img.shields.io/badge/steamdeck_launcher-0969DA?style=for-the-badge&logoColor=FFFFFF" alt="Hitman-Peacock-SteamDeck"/>
 </a>
 </p>
-<p align="center">reliable lid-closure suspend for the surface linux kernel. the fix microsoft wouldn't ship.</p>
+<p align="center">launcher for the Steam Deck/SteamOS. easy and functional launching of the Peacock HITMAN server emulator.</p>
 <p align="center">
-<img src="https://img.shields.io/github/stars/wowitsjack/Surface-Linux-Lid-Fix?style=flat-square&color=2DA44E&labelColor=F6F8FA" alt="stars"/>
+<img src="https://img.shields.io/github/stars/wowitsjack/Hitman-Peacock-SteamDeck?style=flat-square&color=2DA44E&labelColor=F6F8FA" alt="stars"/>
 <img src="https://img.shields.io/badge/lang-C-0969DA?style=flat-square&labelColor=F6F8FA" alt="C"/>
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🐴 Horse App Platform</h3>
+<h3 align="center">👁️ ALLSEEINGEYE</h3>
 <p align="center">
-<a href="https://github.com/wowitsjack/APPALOOSA">
-<img src="https://img.shields.io/badge/microservices-8250DF?style=for-the-badge&logoColor=FFFFFF" alt="APPALOOSA"/>
+<a href="https://github.com/wowitsjack/ALLSEEINGEYE">
+<img src="https://img.shields.io/badge/recon_toolkit-8250DF?style=for-the-badge&logoColor=FFFFFF" alt="ALLSEEINGEYE"/>
 </a>
 </p>
-<p align="center">full equine management platform. APPALOOSA, BRUMBY, PINTO, WARMBLOOD, PERCHERON, FRIESIAN. yes, they're all horse breeds.</p>
+<p align="center">internet-wide surveillance and enumeration toolkit.</p>
 <p align="center">
-<img src="https://img.shields.io/badge/services-6-CF222E?style=flat-square&labelColor=F6F8FA" alt="6 services"/>
-<img src="https://img.shields.io/badge/lang-TypeScript-0969DA?style=flat-square&labelColor=F6F8FA" alt="TypeScript"/>
+<img src="https://img.shields.io/github/stars/wowitsjack/ALLSEEINGEYE?style=flat-square&color=2DA44E&labelColor=F6F8FA" alt="stars"/>
+<img src="https://img.shields.io/badge/lang-Shell-0969DA?style=flat-square&labelColor=F6F8FA" alt="Shell"/>
 </p>
 
 </td>
