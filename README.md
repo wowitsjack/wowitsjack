@@ -4,7 +4,7 @@
 <img src="assets/header.svg" width="800" alt="JACK - security researcher // hardware engineer"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=36&lines=security+researcher;hardware+engineer;forensic+toolsmith;kernel+tinkerer;reverse+engineer;pixel+enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&height=44&lines=security+researcher;hardware+engineer;forensic+toolsmith;kernel+tinkerer;reverse+engineer;pixel+enthusiast" alt="Typing SVG" /></a>
 
 </div>
 
