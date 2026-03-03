@@ -4,7 +4,7 @@
 <img src="assets/header.svg" width="800" alt="JACK - security researcher // hardware engineer"/>
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&height=44&lines=security+researcher;hardware+engineer;forensic+toolsmith;kernel+tinkerer;reverse+engineer;pixel+enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=24292F&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&height=44&lines=security+researcher;hardware+engineer;forensic+toolsmith;kernel+tinkerer;reverse+engineer;pixel+enthusiast" alt="Typing SVG" /></a>
 
 </div>
 
@@ -25,16 +25,16 @@
 <!-- STATS -->
 <div align="center">
 
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=wowitsjack&theme=journey&screen_effect=true&include_all_commits=true" alt="GitHub Stats" width="420"/>
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=wowitsjack&theme=blue_chill&screen_effect=true&include_all_commits=true" alt="GitHub Stats" width="420"/>
 &nbsp;&nbsp;
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=wowitsjack&theme=road_trip&screen_effect=true&hide=avatar,rank,commits,contributions,issues,prs,stars" alt="Top Languages" width="420"/>
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=wowitsjack&theme=summer&screen_effect=true&hide=avatar,rank,commits,contributions,issues,prs,stars" alt="Top Languages" width="420"/>
 
 </div>
 
 <!-- STREAK -->
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=wowitsjack&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=484F58&stroke=21262D&border=21262D" alt="GitHub Streak" width="500"/>
+<img src="https://streak-stats.demolab.com?user=wowitsjack&theme=default&background=FFFFFF&ring=0969DA&fire=CF222E&currStreakLabel=0969DA&sideLabels=656D76&currStreakNum=24292F&sideNums=24292F&dates=8B949E&stroke=D0D7DE&border=D0D7DE" alt="GitHub Streak" width="500"/>
 
 </div>
 
@@ -45,21 +45,21 @@
 
 ### `> cat /proc/skills`
 
-![C](https://img.shields.io/badge/C-00FF41?style=for-the-badge&logo=c&logoColor=0D1117)
-![C++](https://img.shields.io/badge/C++-00FF41?style=for-the-badge&logo=cplusplus&logoColor=0D1117)
-![Python](https://img.shields.io/badge/Python-58A6FF?style=for-the-badge&logo=python&logoColor=0D1117)
-![Go](https://img.shields.io/badge/Go-58A6FF?style=for-the-badge&logo=go&logoColor=0D1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-BC8CFF?style=for-the-badge&logo=typescript&logoColor=0D1117)
-![Kotlin](https://img.shields.io/badge/Kotlin-BC8CFF?style=for-the-badge&logo=kotlin&logoColor=0D1117)
-![Rust](https://img.shields.io/badge/Rust-F78166?style=for-the-badge&logo=rust&logoColor=0D1117)
-![Zig](https://img.shields.io/badge/Zig-F78166?style=for-the-badge&logo=zig&logoColor=0D1117)
+![C](https://img.shields.io/badge/C-2DA44E?style=for-the-badge&logo=c&logoColor=FFFFFF)
+![C++](https://img.shields.io/badge/C++-2DA44E?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-0969DA?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![Go](https://img.shields.io/badge/Go-0969DA?style=for-the-badge&logo=go&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-8250DF?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
+![Kotlin](https://img.shields.io/badge/Kotlin-8250DF?style=for-the-badge&logo=kotlin&logoColor=FFFFFF)
+![Rust](https://img.shields.io/badge/Rust-CF222E?style=for-the-badge&logo=rust&logoColor=FFFFFF)
+![Zig](https://img.shields.io/badge/Zig-CF222E?style=for-the-badge&logo=zig&logoColor=FFFFFF)
 
-![Linux](https://img.shields.io/badge/Linux-21262D?style=for-the-badge&logo=linux&logoColor=00FF41)
-![Android](https://img.shields.io/badge/Android-21262D?style=for-the-badge&logo=android&logoColor=00FF41)
-![Docker](https://img.shields.io/badge/Docker-21262D?style=for-the-badge&logo=docker&logoColor=58A6FF)
-![Wireshark](https://img.shields.io/badge/Wireshark-21262D?style=for-the-badge&logo=wireshark&logoColor=58A6FF)
-![Ghidra](https://img.shields.io/badge/Ghidra-21262D?style=for-the-badge&logo=ghostery&logoColor=F78166)
-![Embedded](https://img.shields.io/badge/Embedded-21262D?style=for-the-badge&logo=espressif&logoColor=F78166)
+![Linux](https://img.shields.io/badge/Linux-2DA44E?style=for-the-badge&logo=linux&logoColor=FFFFFF)
+![Android](https://img.shields.io/badge/Android-2DA44E?style=for-the-badge&logo=android&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-0969DA?style=for-the-badge&logo=docker&logoColor=FFFFFF)
+![Wireshark](https://img.shields.io/badge/Wireshark-0969DA?style=for-the-badge&logo=wireshark&logoColor=FFFFFF)
+![Ghidra](https://img.shields.io/badge/Ghidra-CF222E?style=for-the-badge&logo=ghostery&logoColor=FFFFFF)
+![Embedded](https://img.shields.io/badge/Embedded-CF222E?style=for-the-badge&logo=espressif&logoColor=FFFFFF)
 
 </div>
 
@@ -79,13 +79,13 @@
 <h3 align="center">🔓 freeMarkable</h3>
 <p align="center">
 <a href="https://github.com/wowitsjack/freeMarkable">
-<img src="https://img.shields.io/badge/jailbreak_toolkit-00FF41?style=for-the-badge&logoColor=0D1117" alt="freeMarkable"/>
+<img src="https://img.shields.io/badge/jailbreak_toolkit-2DA44E?style=for-the-badge&logoColor=FFFFFF" alt="freeMarkable"/>
 </a>
 </p>
 <p align="center">jailbreak toolkit for reMarkable 1, 2, and Paper Pro. root access, custom launchers, the works.</p>
 <p align="center">
-<img src="https://img.shields.io/github/stars/wowitsjack/freeMarkable?style=flat-square&color=00FF41&labelColor=0D1117" alt="stars"/>
-<img src="https://img.shields.io/github/forks/wowitsjack/freeMarkable?style=flat-square&color=58A6FF&labelColor=0D1117" alt="forks"/>
+<img src="https://img.shields.io/github/stars/wowitsjack/freeMarkable?style=flat-square&color=2DA44E&labelColor=F6F8FA" alt="stars"/>
+<img src="https://img.shields.io/github/forks/wowitsjack/freeMarkable?style=flat-square&color=0969DA&labelColor=F6F8FA" alt="forks"/>
 </p>
 
 </td>
@@ -94,13 +94,13 @@
 <h3 align="center">🔬 MICE</h3>
 <p align="center">
 <a href="https://github.com/wowitsjack/MICE">
-<img src="https://img.shields.io/badge/forensic_recovery-F78166?style=for-the-badge&logoColor=0D1117" alt="MICE"/>
+<img src="https://img.shields.io/badge/forensic_recovery-CF222E?style=for-the-badge&logoColor=FFFFFF" alt="MICE"/>
 </a>
 </p>
 <p align="center">metadata informed carving engine. high-performance forensic recovery for catastrophically damaged ext4 filesystems.</p>
 <p align="center">
-<img src="https://img.shields.io/github/stars/wowitsjack/MICE?style=flat-square&color=00FF41&labelColor=0D1117" alt="stars"/>
-<img src="https://img.shields.io/badge/lang-C++-58A6FF?style=flat-square&labelColor=0D1117" alt="C++"/>
+<img src="https://img.shields.io/github/stars/wowitsjack/MICE?style=flat-square&color=2DA44E&labelColor=F6F8FA" alt="stars"/>
+<img src="https://img.shields.io/badge/lang-C++-0969DA?style=flat-square&labelColor=F6F8FA" alt="C++"/>
 </p>
 
 </td>
@@ -111,13 +111,13 @@
 <h3 align="center">💻 Surface Linux Lid Fix</h3>
 <p align="center">
 <a href="https://github.com/wowitsjack/Surface-Linux-Lid-Fix">
-<img src="https://img.shields.io/badge/kernel_service-58A6FF?style=for-the-badge&logoColor=0D1117" alt="Surface-Linux-Lid-Fix"/>
+<img src="https://img.shields.io/badge/kernel_service-0969DA?style=for-the-badge&logoColor=FFFFFF" alt="Surface-Linux-Lid-Fix"/>
 </a>
 </p>
 <p align="center">reliable lid-closure suspend for the surface linux kernel. the fix microsoft wouldn't ship.</p>
 <p align="center">
-<img src="https://img.shields.io/github/stars/wowitsjack/Surface-Linux-Lid-Fix?style=flat-square&color=00FF41&labelColor=0D1117" alt="stars"/>
-<img src="https://img.shields.io/badge/lang-C-58A6FF?style=flat-square&labelColor=0D1117" alt="C"/>
+<img src="https://img.shields.io/github/stars/wowitsjack/Surface-Linux-Lid-Fix?style=flat-square&color=2DA44E&labelColor=F6F8FA" alt="stars"/>
+<img src="https://img.shields.io/badge/lang-C-0969DA?style=flat-square&labelColor=F6F8FA" alt="C"/>
 </p>
 
 </td>
@@ -126,13 +126,13 @@
 <h3 align="center">🐴 Horse App Platform</h3>
 <p align="center">
 <a href="https://github.com/wowitsjack/APPALOOSA">
-<img src="https://img.shields.io/badge/microservices-BC8CFF?style=for-the-badge&logoColor=0D1117" alt="APPALOOSA"/>
+<img src="https://img.shields.io/badge/microservices-8250DF?style=for-the-badge&logoColor=FFFFFF" alt="APPALOOSA"/>
 </a>
 </p>
 <p align="center">full equine management platform. APPALOOSA, BRUMBY, PINTO, WARMBLOOD, PERCHERON, FRIESIAN. yes, they're all horse breeds.</p>
 <p align="center">
-<img src="https://img.shields.io/badge/services-6-F78166?style=flat-square&labelColor=0D1117" alt="6 services"/>
-<img src="https://img.shields.io/badge/lang-TypeScript-58A6FF?style=flat-square&labelColor=0D1117" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/services-6-CF222E?style=flat-square&labelColor=F6F8FA" alt="6 services"/>
+<img src="https://img.shields.io/badge/lang-TypeScript-0969DA?style=flat-square&labelColor=F6F8FA" alt="TypeScript"/>
 </p>
 
 </td>
@@ -149,7 +149,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wowitsjack/wowitsjack/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wowitsjack/wowitsjack/output/github-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/wowitsjack/wowitsjack/output/github-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/wowitsjack/wowitsjack/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -158,7 +158,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=wowitsjack&style=for-the-badge&color=00FF41&labelColor=0D1117&label=VISITORS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=wowitsjack&style=for-the-badge&color=0969DA&labelColor=F6F8FA&label=VISITORS" alt="Profile views"/>
 
 ```
  GAME OVER
@@ -166,4 +166,3 @@
 ```
 
 </div>
-

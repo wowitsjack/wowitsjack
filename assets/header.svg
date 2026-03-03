@@ -3,26 +3,26 @@
     <style>
       @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
 
-      .bg { fill: #0d1117; }
+      .bg { fill: #FFFFFF; }
 
       .title {
         font-family: 'Press Start 2P', 'Courier New', monospace;
         font-size: 48px;
-        fill: #00ff41;
-        filter: drop-shadow(0 0 6px #00ff4180);
+        fill: #24292F;
+        filter: drop-shadow(0 0 6px #24292F30);
       }
 
       .subtitle {
         font-family: 'Press Start 2P', 'Courier New', monospace;
         font-size: 10px;
-        fill: #58a6ff;
-        filter: drop-shadow(0 0 4px #58a6ff80);
+        fill: #0969DA;
+        filter: drop-shadow(0 0 4px #0969DA40);
       }
 
       .cursor {
         font-family: 'Press Start 2P', 'Courier New', monospace;
         font-size: 48px;
-        fill: #00ff41;
+        fill: #24292F;
         animation: blink 1s step-end infinite;
       }
 
@@ -34,7 +34,7 @@
       /* scanline overlay */
       .scanlines {
         fill: url(#scanline-pattern);
-        opacity: 0.08;
+        opacity: 0.03;
         animation: scanmove 8s linear infinite;
       }
 
@@ -46,7 +46,7 @@
       /* pixel grid dots */
       .pixel-grid {
         fill: url(#pixel-dot);
-        opacity: 0.04;
+        opacity: 0.02;
       }
 
       /* subtle glow pulse on title */
@@ -55,13 +55,13 @@
       }
 
       @keyframes gpulse {
-        0%, 100% { filter: drop-shadow(0 0 6px #00ff4180); }
-        50% { filter: drop-shadow(0 0 14px #00ff41b0) drop-shadow(0 0 30px #00ff4140); }
+        0%, 100% { filter: drop-shadow(0 0 6px #24292F30); }
+        50% { filter: drop-shadow(0 0 14px #0969DA40) drop-shadow(0 0 30px #0969DA20); }
       }
 
       /* floating pixel particles */
       .particle {
-        fill: #00ff41;
+        fill: #0969DA;
         opacity: 0;
         animation: float 6s ease-in-out infinite;
       }
@@ -76,29 +76,29 @@
 
       @keyframes float {
         0% { opacity: 0; transform: translateY(0); }
-        15% { opacity: 0.6; }
-        85% { opacity: 0.6; }
+        15% { opacity: 0.4; }
+        85% { opacity: 0.4; }
         100% { opacity: 0; transform: translateY(-40px); }
       }
 
       /* border pixels */
       .border-px {
-        fill: #00ff41;
-        opacity: 0.3;
+        fill: #D0D7DE;
+        opacity: 0.6;
       }
 
       .border-px-accent {
-        fill: #58a6ff;
-        opacity: 0.25;
+        fill: #0969DA;
+        opacity: 0.4;
       }
 
       /* corner decoration flicker */
       .corner-deco {
-        fill: #00ff41;
+        fill: #24292F;
         animation: cornerflick 4s step-end infinite;
       }
       .corner-deco2 {
-        fill: #58a6ff;
+        fill: #0969DA;
         animation: cornerflick 4s step-end infinite;
         animation-delay: 2s;
       }
@@ -114,23 +114,31 @@
       .version {
         font-family: 'Press Start 2P', 'Courier New', monospace;
         font-size: 8px;
-        fill: #484f58;
+        fill: #8B949E;
+      }
+
+      /* subtle outer border */
+      .outer-border {
+        fill: none;
+        stroke: #D0D7DE;
+        stroke-width: 1;
       }
     </style>
 
     <!-- scanline pattern -->
     <pattern id="scanline-pattern" width="1" height="4" patternUnits="userSpaceOnUse">
-      <rect width="1" height="2" fill="#ffffff"/>
+      <rect width="1" height="2" fill="#000000"/>
     </pattern>
 
     <!-- pixel dot pattern -->
     <pattern id="pixel-dot" width="4" height="4" patternUnits="userSpaceOnUse">
-      <rect x="0" y="0" width="1" height="1" fill="#ffffff"/>
+      <rect x="0" y="0" width="1" height="1" fill="#000000"/>
     </pattern>
   </defs>
 
   <!-- background -->
   <rect class="bg" width="800" height="200" rx="6"/>
+  <rect class="outer-border" width="800" height="200" rx="6"/>
 
   <!-- pixel border: top -->
   <rect class="border-px" x="8" y="8" width="4" height="4"/>
