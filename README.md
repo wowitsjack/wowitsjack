@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="assets/header.svg" width="800" alt="JACK - security researcher // hardware engineer"/>
+<img src="assets/header.svg" width="800" alt="wowitsjack - security researcher // hardware engineer"/>
 
 </div>
 
