@@ -37,13 +37,6 @@
 
 </div>
 
-<!-- STATS -->
-<div align="center">
-
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=wowitsjack&theme=blue_chill&screen_effect=true&include_all_commits=true" alt="GitHub Stats" width="420"/>
-
-</div>
-
 <!-- STREAK -->
 <div align="center">
 
