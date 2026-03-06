@@ -3,6 +3,15 @@
 <!-- HEADER -->
 <img src="assets/header.svg" width="800" alt="JACK - security researcher // hardware engineer"/>
 
+</div>
+
+<!-- STREAK -->
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=wowitsjack&theme=default&background=FFFFFF&ring=0969DA&fire=CF222E&currStreakLabel=0969DA&sideLabels=656D76&currStreakNum=24292F&sideNums=24292F&dates=8B949E&stroke=D0D7DE&border=D0D7DE" alt="GitHub Streak" width="500"/>
+
+</div>
+
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=24292F&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&height=44&lines=security+researcher;hardware+engineer;forensic+toolsmith;kernel+tinkerer;reverse+engineer;pixel+enthusiast" alt="Typing SVG" /></a>
 
@@ -35,14 +44,7 @@
  ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-</div>
 
-<!-- STREAK -->
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=wowitsjack&theme=default&background=FFFFFF&ring=0969DA&fire=CF222E&currStreakLabel=0969DA&sideLabels=656D76&currStreakNum=24292F&sideNums=24292F&dates=8B949E&stroke=D0D7DE&border=D0D7DE" alt="GitHub Streak" width="500"/>
-
-</div>
 
 ---
 
