@@ -30,7 +30,7 @@
  ║    jack. i break things, fix things, and build things.           ║
  ║    security research, hardware hacking, forensic recovery,       ║
  ║    kernel patches, android modding, and whatever else looks      ║
- ║    interesting! :D                              ║
+ ║    interesting! :D                                               ║
  ║                                                                  ║
  ╚══════════════════════════════════════════════════════════════════╝
 ```
