@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="228" viewBox="0 0 1200 228" role="img" aria-labelledby="title desc">
+<title id="title">freeMarkable. Open up your reMarkable.</title>
+<desc id="desc">A jailbreak toolkit for reMarkable 1, 2, and Paper Pro. Explore the repository.</desc>
+<style>
+:root{--paper:#f3f2ed;--ink:#242c26;--muted:#5b685d;--line:#cbd1c6;--accent:#944b2e;--art:#e6e9df}
+@media(prefers-color-scheme:dark){:root{--paper:#1b241e;--ink:#eff0e5;--muted:#adbaaa;--line:#42513f;--accent:#eba781;--art:#253324}}
+</style>
+<rect x="0.5" y="0.5" width="1199" height="227" rx="4" fill="var(--paper)" stroke="var(--line)"/>
+<path d="M0 0v228" stroke="var(--accent)" stroke-width="6"/>
+<text x="32" y="35" fill="var(--muted)" font-family="Consolas,Liberation Mono,monospace" font-size="12" letter-spacing="1.8" >01 / DEVICE FREEDOM</text>
+<text x="32" y="91" fill="var(--ink)" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700" >freeMarkable</text>
+<text x="32" y="130" fill="var(--ink)" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" >Open up your reMarkable.</text>
+<text x="32" y="161" fill="var(--muted)" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="400" >A jailbreak toolkit for reMarkable 1, 2, and Paper Pro.</text>
+<text x="32" y="202" fill="var(--muted)" font-family="Consolas,Liberation Mono,monospace" font-size="12" letter-spacing="1.8" >PYTHON</text>
+<text x="110" y="202" fill="var(--accent)" font-family="Consolas,Liberation Mono,monospace" font-size="11" letter-spacing="1.8" >VIEW PROJECT</text>
+<path d="M236 202l10 -10m-10 0h10v10" fill="none" stroke="var(--accent)" stroke-width="2"/>
+<path d="M886 28L886 200" fill="none" stroke="var(--line)"/>
+<g transform="rotate(12 1058 112)" fill="none" stroke="var(--muted)" stroke-width="1.5"><rect x="997" y="32" width="122" height="157" rx="7" fill="var(--art)"/><rect x="1006" y="40" width="104" height="137" rx="2" fill="var(--paper)"/><path d="M1019 66h55m-55 12h74m-74 12h49m-49 53 18-28 20 13 23-34 14 9"/><path d="M1043 152h34" stroke="var(--accent)" stroke-width="3"/><path d="M1132 43v122l-3 10-3-10V43Z" fill="var(--accent)" stroke="none"/></g>
+</svg>

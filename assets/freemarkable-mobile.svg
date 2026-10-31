@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="342" viewBox="0 0 640 342" role="img" aria-labelledby="title desc">
+<title id="title">freeMarkable. Open up your reMarkable.</title>
+<desc id="desc">A jailbreak toolkit for reMarkable 1, 2, and Paper Pro. Explore the repository.</desc>
+<style>
+:root{--paper:#f3f2ed;--ink:#242c26;--muted:#5b685d;--line:#cbd1c6;--accent:#944b2e;--art:#e6e9df}
+@media(prefers-color-scheme:dark){:root{--paper:#1b241e;--ink:#eff0e5;--muted:#adbaaa;--line:#42513f;--accent:#eba781;--art:#253324}}
+</style>
+<rect x="0.5" y="0.5" width="639" height="341" rx="4" fill="var(--paper)" stroke="var(--line)"/>
+<path d="M0 0v342" stroke="var(--accent)" stroke-width="6"/>
+<text x="28" y="38" fill="var(--muted)" font-family="Consolas,Liberation Mono,monospace" font-size="17" letter-spacing="1.8" >01 / DEVICE FREEDOM</text>
+<text x="28" y="100" fill="var(--ink)" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="700" >freeMarkable</text>
+<text x="28" y="151" fill="var(--ink)" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="400" >Open up your reMarkable.</text>
+<text x="28" y="195" fill="var(--muted)" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="400" >A jailbreak toolkit for</text>
+<text x="28" y="233" fill="var(--muted)" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="400" >reMarkable 1, 2, and Paper Pro.</text>
+<path d="M28 273L612 273" fill="none" stroke="var(--line)"/>
+<text x="28" y="312" fill="var(--muted)" font-family="Consolas,Liberation Mono,monospace" font-size="17" letter-spacing="1.8" >PYTHON</text>
+<text x="563" y="312" fill="var(--accent)" font-family="Consolas,Liberation Mono,monospace" font-size="16" letter-spacing="1.8" text-anchor="end">VIEW PROJECT</text>
+<path d="M586 311l13 -13m-13 0h13v13" fill="none" stroke="var(--accent)" stroke-width="2"/>
+</svg>
