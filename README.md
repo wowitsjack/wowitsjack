@@ -10,18 +10,18 @@ I build tools that give people more control over their hardware. I also maintain
 ## Selected work
 
 <p>
-<a href="https://github.com/wowitsjack/SaGe-Browser-Fuzzer">
+<a href="https://github.com/ChijinZ/SaGe-Browser-Fuzzer">
   <picture>
-    <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/motion/sage-mobile-still.svg">
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/motion/sage-still.svg">
-    <source media="(max-width: 600px)" srcset="assets/motion/sage-mobile.svg">
-    <img src="assets/motion/sage.svg" width="1200" alt="SaGe Browser Fuzzer. Browser research through semantic fuzzing. Maintained fork of the experimental DOM fuzzer.">
+    <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/motion/sage-upstream-mobile-still.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/motion/sage-upstream-still.svg">
+    <source media="(max-width: 600px)" srcset="assets/motion/sage-upstream-mobile.svg">
+    <img src="assets/motion/sage-upstream.svg" width="1200" alt="SaGe Browser Fuzzer. Browser research through semantic fuzzing. Experimental DOM fuzzer with semantic fuzzing engines.">
   </picture>
 </a>
 </p>
 
 <p>
-<a href="https://github.com/wowitsjack/fftadecomp">
+<a href="https://github.com/shubshub/fftadecomp">
   <picture>
     <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/motion/ffta-mobile-still.svg">
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/motion/ffta-still.svg">
