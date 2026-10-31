@@ -1,17 +1,43 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/profile-hero-mobile.svg">
-  <img src="assets/profile-hero.svg" width="1200" alt="wowitsjack. Open it up. Make it work. Security researcher and hardware engineer.">
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/motion/hero-mobile-still.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/motion/hero-still.svg">
+  <source media="(max-width: 600px)" srcset="assets/motion/hero-mobile.svg">
+  <img src="assets/motion/hero.svg" width="1200" alt="wowitsjack. Open it up. Make it work. Security researcher and hardware engineer.">
 </picture>
 
-I build tools that give people more control over their hardware. My work spans device research, embedded firmware, and making software run where it should.
+I build tools that give people more control over their hardware. I also maintain browser-fuzzing and game-decompilation projects.
 
 ## Selected work
 
 <p>
+<a href="https://github.com/wowitsjack/SaGe-Browser-Fuzzer">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/motion/sage-mobile-still.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/motion/sage-still.svg">
+    <source media="(max-width: 600px)" srcset="assets/motion/sage-mobile.svg">
+    <img src="assets/motion/sage.svg" width="1200" alt="SaGe Browser Fuzzer. Browser research through semantic fuzzing. Maintained fork of the experimental DOM fuzzer.">
+  </picture>
+</a>
+</p>
+
+<p>
+<a href="https://github.com/wowitsjack/fftadecomp">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/motion/ffta-mobile-still.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/motion/ffta-still.svg">
+    <source media="(max-width: 600px)" srcset="assets/motion/ffta-mobile.svg">
+    <img src="assets/motion/ffta.svg" width="1200" alt="FFTA decomp. Final Fantasy Tactics Advance ROM analysis, byte-exact splitting, and disassembly.">
+  </picture>
+</a>
+</p>
+
+<p>
 <a href="https://github.com/wowitsjack/freeMarkable">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/freemarkable-mobile.svg">
-    <img src="assets/freemarkable.svg" width="1200" alt="01 / freeMarkable. Open up your reMarkable. A jailbreak toolkit for reMarkable 1, 2, and Paper Pro. Python. Explore the repository.">
+    <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/motion/freemarkable-mobile-still.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/motion/freemarkable-still.svg">
+    <source media="(max-width: 600px)" srcset="assets/motion/freemarkable-mobile.svg">
+    <img src="assets/motion/freemarkable.svg" width="1200" alt="freeMarkable. Open up your reMarkable. A jailbreak toolkit for reMarkable 1, 2, and Paper Pro.">
   </picture>
 </a>
 </p>
@@ -19,36 +45,69 @@ I build tools that give people more control over their hardware. My work spans d
 <p>
 <a href="https://github.com/wowitsjack/choochoo-loader">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/choochoo-mobile.svg">
-    <img src="assets/choochoo.svg" width="1200" alt="02 / choochoo-loader. Your trainers, on your platform. A trainer loader for Proton and WINE on Steam Deck, SteamOS, Linux, and macOS. C#. Explore the repository.">
-  </picture>
-</a>
-</p>
-
-<p>
-<a href="https://github.com/wowitsjack/ai-v">
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/aiv-mobile.svg">
-    <img src="assets/aiv.svg" width="1200" alt="03 / ai-v. A voice assistant with a choice. Standalone firmware for Home Assistant Voice PE with configurable speech, language model, and voice providers. C++. Explore the repository.">
+    <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/motion/choochoo-mobile-still.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/motion/choochoo-still.svg">
+    <source media="(max-width: 600px)" srcset="assets/motion/choochoo-mobile.svg">
+    <img src="assets/motion/choochoo.svg" width="1200" alt="choochoo-loader. Your trainers, on your platform. Proton &amp; WINE. Steam Deck, SteamOS, Linux, and macOS.">
   </picture>
 </a>
 </p>
 
 ## Also on the bench
 
-**[readmarkable](https://github.com/wowitsjack/readmarkable)** · Offline document management for reMarkable.
-
-**[Bedside Lamp 2](https://github.com/wowitsjack/esphome-xiaomi-bslamp2-mcp)** · ESPHome firmware, on-device lighting effects, and MCP control.
-
-**[AI Audiobook Maker](https://github.com/wowitsjack/AI-Audiobook-Maker)** · Audiobook generation with Gemini TTS and Lyria music.
-
-**[Peacock for Steam Deck](https://github.com/wowitsjack/Hitman-Peacock-SteamDeck)** · A SteamOS launcher for the Peacock HITMAN server emulator.
-
----
+<p>
+<a href="https://github.com/wowitsjack/ai-v">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/motion/aiv-mobile-still.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/motion/aiv-still.svg">
+    <source media="(max-width: 600px)" srcset="assets/motion/aiv-mobile.svg">
+    <img src="assets/motion/aiv.svg" width="1200" alt="ai-v. Standalone Voice PE firmware. Choose your speech, LLM, and voice providers.">
+  </picture>
+</a>
+</p>
 
 <p>
-<sub><strong>Working across</strong> &nbsp; Linux · Android · embedded systems · reverse engineering</sub><br>
-<sub><strong>Working with</strong> &nbsp; C / C++ · Python · C# · Shell</sub>
+<a href="https://github.com/wowitsjack/readmarkable">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/motion/readmarkable-mobile-still.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/motion/readmarkable-still.svg">
+    <source media="(max-width: 600px)" srcset="assets/motion/readmarkable-mobile.svg">
+    <img src="assets/motion/readmarkable.svg" width="1200" alt="readmarkable. Offline document management for reMarkable.">
+  </picture>
+</a>
+</p>
+
+<p>
+<a href="https://github.com/wowitsjack/esphome-xiaomi-bslamp2-mcp">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/motion/lamp-mobile-still.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/motion/lamp-still.svg">
+    <source media="(max-width: 600px)" srcset="assets/motion/lamp-mobile.svg">
+    <img src="assets/motion/lamp.svg" width="1200" alt="Bedside Lamp 2. ESPHome firmware, on-device lighting effects, and MCP control.">
+  </picture>
+</a>
+</p>
+
+<p>
+<a href="https://github.com/wowitsjack/AI-Audiobook-Maker">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/motion/audiobook-mobile-still.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/motion/audiobook-still.svg">
+    <source media="(max-width: 600px)" srcset="assets/motion/audiobook-mobile.svg">
+    <img src="assets/motion/audiobook.svg" width="1200" alt="AI Audiobook Maker. Audiobook generation with Gemini TTS and Lyria music.">
+  </picture>
+</a>
+</p>
+
+<p>
+<a href="https://github.com/wowitsjack/Hitman-Peacock-SteamDeck">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/motion/peacock-mobile-still.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/motion/peacock-still.svg">
+    <source media="(max-width: 600px)" srcset="assets/motion/peacock-mobile.svg">
+    <img src="assets/motion/peacock.svg" width="1200" alt="Peacock for Steam Deck. A SteamOS launcher for the Peacock HITMAN server emulator.">
+  </picture>
+</a>
 </p>
 
 [Explore all repositories ↗](https://github.com/wowitsjack?tab=repositories)

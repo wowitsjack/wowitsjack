@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320" role="img" aria-labelledby="title desc">
+<title id="title">SaGe Browser Fuzzer</title>
+<desc id="desc">Browser research through semantic fuzzing. Maintained fork of the experimental DOM fuzzer. Open the repository. Motion respects reduced-motion preferences.</desc>
+<style>
+:root{--paper:#f3f2ed;--ink:#242c26;--muted:#5b685d;--line:#cbd1c6;--accent:#944b2e;--art:#e6e9df;--glow:#d99c74}
+@media(prefers-color-scheme:dark){:root{--paper:#1b241e;--ink:#eff0e5;--muted:#adbaaa;--line:#42513f;--accent:#eba781;--art:#253324;--glow:#b27a56}}
+
+.signal{stroke-dasharray:none;opacity:.45}.steam{opacity:.25}
+</style>
+<rect x=".5" y=".5" width="639" height="319" rx="5" fill="var(--paper)" stroke="var(--line)" />
+<path d="M1 5v310" stroke="var(--accent)" stroke-width="3" />
+<text x="28" y="74" font-family="Arial,Helvetica,sans-serif" font-size="37" font-weight="700" fill="var(--ink)">SaGe Browser Fuzzer</text>
+<g transform="translate(470,5) scale(.52)"><g fill="none" stroke="var(--muted)" stroke-width="1.6"><rect x="27" y="29" width="246" height="144" rx="12" fill="var(--art)" /><path d="M27 56h246" /><circle cx="42" cy="43" r="2.5" fill="var(--muted)" stroke="none" /><circle cx="53" cy="43" r="2.5" fill="var(--muted)" stroke="none" /><circle cx="64" cy="43" r="2.5" fill="var(--muted)" stroke="none" /><path d="M150 94v23H87v22" fill="none" stroke="var(--line)" stroke-width="1.2" /><path d="M150 94v23H87v22" fill="none" stroke="var(--accent)" stroke-width="2" pathLength="360" class="signal" style="--delay:-0.0s" /><path d="M150 94v45" fill="none" stroke="var(--line)" stroke-width="1.2" /><path d="M150 94v45" fill="none" stroke="var(--accent)" stroke-width="2" pathLength="360" class="signal" style="--delay:-1.8s" /><path d="M150 94v23h63v22" fill="none" stroke="var(--line)" stroke-width="1.2" /><path d="M150 94v23h63v22" fill="none" stroke="var(--accent)" stroke-width="2" pathLength="360" class="signal" style="--delay:-3.6s" /><rect x="129" y="73" width="42" height="22" rx="4" fill="var(--paper)" stroke="var(--accent)" /><rect x="69" y="139" width="36" height="20" rx="4" fill="var(--paper)" /><path d="M79 149h16" stroke="var(--accent)" stroke-width="3" class="breath" style="--delay:-0s" /><rect x="132" y="139" width="36" height="20" rx="4" fill="var(--paper)" /><path d="M142 149h16" stroke="var(--accent)" stroke-width="3" class="breath" style="--delay:-1s" /><rect x="195" y="139" width="36" height="20" rx="4" fill="var(--paper)" /><path d="M205 149h16" stroke="var(--accent)" stroke-width="3" class="breath" style="--delay:-2s" /></g></g>
+<text x="28" y="132" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="400" fill="var(--ink)">Browser research through</text>
+<text x="28" y="166" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="400" fill="var(--ink)">semantic fuzzing.</text>
+<text x="28" y="211" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="400" fill="var(--muted)">Maintained fork of the</text>
+<text x="28" y="247" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="400" fill="var(--muted)">experimental DOM fuzzer.</text>
+<path d="M589 294l15-15m-15 0h15v15" fill="none" stroke="var(--accent)" stroke-width="2" />
+</svg>

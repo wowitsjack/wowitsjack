@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="190" viewBox="0 0 640 190" role="img" aria-labelledby="title desc">
+<title id="title">ai-v</title>
+<desc id="desc">Standalone Voice PE firmware. Choose your speech, LLM, and voice providers. Open the repository. Motion respects reduced-motion preferences.</desc>
+<style>
+:root{--paper:#f3f2ed;--ink:#242c26;--muted:#5b685d;--line:#cbd1c6;--accent:#944b2e;--art:#e6e9df;--glow:#d99c74}
+@media(prefers-color-scheme:dark){:root{--paper:#1b241e;--ink:#eff0e5;--muted:#adbaaa;--line:#42513f;--accent:#eba781;--art:#253324;--glow:#b27a56}}
+
+.signal{stroke-dasharray:none;opacity:.45}.steam{opacity:.25}
+</style>
+<rect x=".5" y=".5" width="639" height="189" rx="5" fill="var(--paper)" stroke="var(--line)" />
+<path d="M1 5v180" stroke="var(--accent)" stroke-width="3" />
+<text x="26" y="53" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="700" fill="var(--ink)">ai-v</text>
+<text x="26" y="108" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="400" fill="var(--muted)">Standalone Voice PE firmware.</text>
+<text x="26" y="145" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="400" fill="var(--muted)">Choose the providers behind it.</text>
+<g transform="translate(484,2) scale(.5)"><g stroke="var(--muted)" fill="none" stroke-width="1.6"><rect x="83" y="29" width="142" height="142" rx="28" fill="var(--art)" /><rect x="93" y="39" width="122" height="122" rx="20" /><path d="M121 92.0v16" stroke="var(--accent)" stroke-width="4" stroke-linecap="round" class="meter" style="--delay:-0.0s" /><path d="M132 84.0v32" stroke="var(--accent)" stroke-width="4" stroke-linecap="round" class="meter" style="--delay:-0.37s" /><path d="M143 75.5v49" stroke="var(--accent)" stroke-width="4" stroke-linecap="round" class="meter" style="--delay:-0.74s" /><path d="M154 67.0v66" stroke="var(--accent)" stroke-width="4" stroke-linecap="round" class="meter" style="--delay:-1.1099999999999999s" /><path d="M165 75.5v49" stroke="var(--accent)" stroke-width="4" stroke-linecap="round" class="meter" style="--delay:-1.48s" /><path d="M176 84.0v32" stroke="var(--accent)" stroke-width="4" stroke-linecap="round" class="meter" style="--delay:-1.85s" /><path d="M187 92.0v16" stroke="var(--accent)" stroke-width="4" stroke-linecap="round" class="meter" style="--delay:-2.2199999999999998s" /><circle cx="154" cy="145" r="3" fill="var(--accent)" stroke="none" /><path d="M64 68q-18 32 0 64m180-64q18 32 0 64" stroke="var(--line)" class="breath" /></g></g>
+</svg>

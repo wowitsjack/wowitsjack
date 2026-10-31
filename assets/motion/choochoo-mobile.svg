@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320" role="img" aria-labelledby="title desc">
+<title id="title">choochoo-loader</title>
+<desc id="desc">Your trainers, on your platform. Proton &amp; WINE. Steam Deck, SteamOS, Linux, and macOS. Open the repository. Motion respects reduced-motion preferences.</desc>
+<style>
+:root{--paper:#f3f2ed;--ink:#242c26;--muted:#5b685d;--line:#cbd1c6;--accent:#944b2e;--art:#e6e9df;--glow:#d99c74}
+@media(prefers-color-scheme:dark){:root{--paper:#1b241e;--ink:#eff0e5;--muted:#adbaaa;--line:#42513f;--accent:#eba781;--art:#253324;--glow:#b27a56}}
+
+.float{animation:float 7s ease-in-out infinite}
+.float-small{animation:float-small 7s ease-in-out -1.4s infinite}
+.signal{stroke-dasharray:22 338;animation:signal 7s linear infinite;animation-delay:var(--delay,0s)}
+.draw{stroke-dasharray:1;stroke-dashoffset:0;animation:draw 8s ease-in-out infinite;animation-delay:var(--delay,0s)}
+.breath{animation:breath 5s ease-in-out infinite;animation-delay:var(--delay,0s)}
+.meter{transform-box:fill-box;transform-origin:center;animation:meter 2.6s ease-in-out infinite;animation-delay:var(--delay,0s)}
+.track{stroke-dasharray:8 8;animation:track 2s linear infinite}
+.steam{animation:steam 3.8s ease-out infinite;animation-delay:var(--delay,0s)}
+.orbit{transform-box:fill-box;transform-origin:center;animation:orbit 20s linear infinite}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+@keyframes float-small{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+@keyframes signal{to{stroke-dashoffset:-360}}
+@keyframes draw{0%,8%{stroke-dashoffset:1;opacity:.2}45%,88%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:.2}}
+@keyframes breath{0%,100%{opacity:.4}50%{opacity:1}}
+@keyframes meter{0%,100%{transform:scaleY(.4)}50%{transform:scaleY(1)}}
+@keyframes track{to{stroke-dashoffset:-32}}
+@keyframes steam{0%{transform:translateY(0);opacity:0}25%{opacity:.6}100%{transform:translate(8px,-24px);opacity:0}}
+@keyframes orbit{to{transform:rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important}.signal{stroke-dasharray:none;opacity:.45}.steam{opacity:.25}}
+</style>
+<rect x=".5" y=".5" width="639" height="319" rx="5" fill="var(--paper)" stroke="var(--line)"/>
+<path d="M1 5v310" stroke="var(--accent)" stroke-width="3"/>
+<text x="28" y="74" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="700" fill="var(--ink)">choochoo-loader</text>
+<g transform="translate(470,5) scale(.52)"><g transform="rotate(-6 150 102)" fill="none" stroke="var(--muted)" stroke-width="1.6"><rect x="23" y="45" width="254" height="126" rx="29" fill="var(--art)"/><rect x="67" y="59" width="164" height="98" rx="4" fill="var(--paper)"/><circle cx="46" cy="79" r="10"/><circle cx="253" cy="137" r="10"/><path d="M39 136h14m-7-7v14"/><circle cx="253" cy="72" r="2"/><circle cx="246" cy="79" r="2"/><circle cx="260" cy="79" r="2"/><circle cx="253" cy="86" r="2"/><path d="M81 142h136" class="track" stroke="var(--accent)"/><g class="float-small"><path d="M112 124V96h27v28h36v-19h-9V94h12v13l17 17v6h-83Z" fill="var(--art)" stroke="var(--accent)"/><path d="M118 102h14v13h-14Z"/><circle cx="125" cy="131" r="6" fill="var(--paper)"/><circle cx="153" cy="131" r="6" fill="var(--paper)"/><circle cx="181" cy="131" r="6" fill="var(--paper)"/></g><circle cx="172" cy="87" r="4" class="steam" stroke="var(--accent)"/><circle cx="174" cy="85" r="6" class="steam" style="--delay:-1.8s" stroke="var(--accent)"/></g></g>
+<text x="28" y="132" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="400" fill="var(--ink)">Your trainers, on your platform.</text>
+<text x="28" y="190" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="400" fill="var(--muted)">Proton &amp; WINE. Steam Deck,</text>
+<text x="28" y="226" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="400" fill="var(--muted)">SteamOS, Linux, and macOS.</text>
+<path d="M589 294l15-15m-15 0h15v15" fill="none" stroke="var(--accent)" stroke-width="2" />
+</svg>

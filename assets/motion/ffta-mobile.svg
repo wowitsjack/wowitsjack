@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320" role="img" aria-labelledby="title desc">
+<title id="title">FFTA decomp</title>
+<desc id="desc">Final Fantasy Tactics Advance ROM analysis, byte-exact splitting, and disassembly. Open the repository. Motion respects reduced-motion preferences.</desc>
+<style>
+:root{--paper:#f3f2ed;--ink:#242c26;--muted:#5b685d;--line:#cbd1c6;--accent:#944b2e;--art:#e6e9df;--glow:#d99c74}
+@media(prefers-color-scheme:dark){:root{--paper:#1b241e;--ink:#eff0e5;--muted:#adbaaa;--line:#42513f;--accent:#eba781;--art:#253324;--glow:#b27a56}}
+
+.float{animation:float 7s ease-in-out infinite}
+.float-small{animation:float-small 7s ease-in-out -1.4s infinite}
+.signal{stroke-dasharray:22 338;animation:signal 7s linear infinite;animation-delay:var(--delay,0s)}
+.draw{stroke-dasharray:1;stroke-dashoffset:0;animation:draw 8s ease-in-out infinite;animation-delay:var(--delay,0s)}
+.breath{animation:breath 5s ease-in-out infinite;animation-delay:var(--delay,0s)}
+.meter{transform-box:fill-box;transform-origin:center;animation:meter 2.6s ease-in-out infinite;animation-delay:var(--delay,0s)}
+.track{stroke-dasharray:8 8;animation:track 2s linear infinite}
+.steam{animation:steam 3.8s ease-out infinite;animation-delay:var(--delay,0s)}
+.orbit{transform-box:fill-box;transform-origin:center;animation:orbit 20s linear infinite}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+@keyframes float-small{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+@keyframes signal{to{stroke-dashoffset:-360}}
+@keyframes draw{0%,8%{stroke-dashoffset:1;opacity:.2}45%,88%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:.2}}
+@keyframes breath{0%,100%{opacity:.4}50%{opacity:1}}
+@keyframes meter{0%,100%{transform:scaleY(.4)}50%{transform:scaleY(1)}}
+@keyframes track{to{stroke-dashoffset:-32}}
+@keyframes steam{0%{transform:translateY(0);opacity:0}25%{opacity:.6}100%{transform:translate(8px,-24px);opacity:0}}
+@keyframes orbit{to{transform:rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important}.signal{stroke-dasharray:none;opacity:.45}.steam{opacity:.25}}
+</style>
+<rect x=".5" y=".5" width="639" height="319" rx="5" fill="var(--paper)" stroke="var(--line)"/>
+<path d="M1 5v310" stroke="var(--accent)" stroke-width="3"/>
+<text x="28" y="74" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="700" fill="var(--ink)">FFTA decomp</text>
+<g transform="translate(470,5) scale(.52)"><g stroke="var(--muted)" fill="none" stroke-width="1.6" stroke-linejoin="round"><path d="M67 29h166v17h16v127H51V46h16Z" fill="var(--art)" stroke="var(--muted)" stroke-width="1.6" /><rect x="67" y="58" width="166" height="97" rx="4" fill="var(--paper)"/><path d="M82 36v12" fill="none" stroke="var(--line)" stroke-width="2" /><path d="M96 36v12" fill="none" stroke="var(--line)" stroke-width="2" /><path d="M110 36v12" fill="none" stroke="var(--line)" stroke-width="2" /><path d="M124 36v12" fill="none" stroke="var(--line)" stroke-width="2" /><path d="M138 36v12" fill="none" stroke="var(--line)" stroke-width="2" /><path d="M152 36v12" fill="none" stroke="var(--line)" stroke-width="2" /><path d="M166 36v12" fill="none" stroke="var(--line)" stroke-width="2" /><path d="M180 36v12" fill="none" stroke="var(--line)" stroke-width="2" /><path d="M194 36v12" fill="none" stroke="var(--line)" stroke-width="2" /><path d="M208 36v12" fill="none" stroke="var(--line)" stroke-width="2" /><path d="M222 36v12" fill="none" stroke="var(--line)" stroke-width="2" /><g class="float-small"><path d="M150 69l18 10-18 10-18-10Z" fill="var(--paper)" stroke="var(--line)" stroke-width="1" /><path d="M168 79l18 10-18 10-18-10Z" fill="var(--art)" stroke="var(--line)" stroke-width="1" /><path d="M186 89l18 10-18 10-18-10Z" fill="var(--paper)" stroke="var(--line)" stroke-width="1" /><path d="M204 99l18 10-18 10-18-10Z" fill="var(--art)" stroke="var(--line)" stroke-width="1" /><path d="M132 79l18 10-18 10-18-10Z" fill="var(--art)" stroke="var(--line)" stroke-width="1" /><path d="M150 89l18 10-18 10-18-10Z" fill="var(--paper)" stroke="var(--line)" stroke-width="1" /><g class="float-small"><path d="M168 99l18 10-18 10-18-10Z" fill="var(--accent)" stroke="var(--line)" stroke-width="1" /><path d="M150 109v6l18 10 18-10v-6" fill="none" stroke="var(--accent)" stroke-width="1" /></g><path d="M186 109l18 10-18 10-18-10Z" fill="var(--paper)" stroke="var(--line)" stroke-width="1" /><path d="M114 89l18 10-18 10-18-10Z" fill="var(--paper)" stroke="var(--line)" stroke-width="1" /><path d="M132 99l18 10-18 10-18-10Z" fill="var(--art)" stroke="var(--line)" stroke-width="1" /><path d="M150 109l18 10-18 10-18-10Z" fill="var(--paper)" stroke="var(--line)" stroke-width="1" /><path d="M168 119l18 10-18 10-18-10Z" fill="var(--art)" stroke="var(--line)" stroke-width="1" /><path d="M96 99l18 10-18 10-18-10Z" fill="var(--art)" stroke="var(--line)" stroke-width="1" /><path d="M114 109l18 10-18 10-18-10Z" fill="var(--paper)" stroke="var(--line)" stroke-width="1" /><path d="M132 119l18 10-18 10-18-10Z" fill="var(--art)" stroke="var(--line)" stroke-width="1" /><path d="M150 129l18 10-18 10-18-10Z" fill="var(--paper)" stroke="var(--line)" stroke-width="1" /></g><path d="M117 164h66" fill="none" stroke="var(--accent)" stroke-width="2" /></g></g>
+<text x="28" y="132" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="400" fill="var(--ink)">Final Fantasy Tactics Advance</text>
+<text x="28" y="190" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="400" fill="var(--muted)">ROM analysis, byte-exact</text>
+<text x="28" y="226" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="400" fill="var(--muted)">splitting, and disassembly.</text>
+<path d="M589 294l15-15m-15 0h15v15" fill="none" stroke="var(--accent)" stroke-width="2" />
+</svg>

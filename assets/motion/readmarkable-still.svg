@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="142" viewBox="0 0 1200 142" role="img" aria-labelledby="title desc">
+<title id="title">readmarkable</title>
+<desc id="desc">Offline document management for reMarkable. Open the repository. Motion respects reduced-motion preferences.</desc>
+<style>
+:root{--paper:#f3f2ed;--ink:#242c26;--muted:#5b685d;--line:#cbd1c6;--accent:#944b2e;--art:#e6e9df;--glow:#d99c74}
+@media(prefers-color-scheme:dark){:root{--paper:#1b241e;--ink:#eff0e5;--muted:#adbaaa;--line:#42513f;--accent:#eba781;--art:#253324;--glow:#b27a56}}
+
+.signal{stroke-dasharray:none;opacity:.45}.steam{opacity:.25}
+</style>
+<rect x=".5" y=".5" width="1199" height="141" rx="5" fill="var(--paper)" stroke="var(--line)" />
+<path d="M1 5v132" stroke="var(--accent)" stroke-width="3" />
+<text x="32" y="55" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="700" fill="var(--ink)">readmarkable</text>
+<text x="32" y="97" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" fill="var(--muted)">Offline document management for reMarkable.</text>
+<g transform="translate(997,0) scale(.69)"><g stroke="var(--muted)" fill="none" stroke-width="1.8"><rect x="81" y="29" width="105" height="135" rx="5" fill="var(--art)" /><rect x="111" y="43" width="105" height="135" rx="5" fill="var(--paper)" /><path d="M129 67h49m-49 14h70m-70 14h70m-70 14h45m-45 14h70" stroke="var(--line)" /><path d="M130 151h65" stroke="var(--accent)" stroke-width="3" class="draw" pathLength="1" /></g></g>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="190" viewBox="0 0 640 190" role="img" aria-labelledby="title desc">
+<title id="title">AI Audiobook Maker</title>
+<desc id="desc">Audiobook generation with Gemini TTS and Lyria music. Open the repository. Motion respects reduced-motion preferences.</desc>
+<style>
+:root{--paper:#f3f2ed;--ink:#242c26;--muted:#5b685d;--line:#cbd1c6;--accent:#944b2e;--art:#e6e9df;--glow:#d99c74}
+@media(prefers-color-scheme:dark){:root{--paper:#1b241e;--ink:#eff0e5;--muted:#adbaaa;--line:#42513f;--accent:#eba781;--art:#253324;--glow:#b27a56}}
+
+.float{animation:float 7s ease-in-out infinite}
+.float-small{animation:float-small 7s ease-in-out -1.4s infinite}
+.signal{stroke-dasharray:22 338;animation:signal 7s linear infinite;animation-delay:var(--delay,0s)}
+.draw{stroke-dasharray:1;stroke-dashoffset:0;animation:draw 8s ease-in-out infinite;animation-delay:var(--delay,0s)}
+.breath{animation:breath 5s ease-in-out infinite;animation-delay:var(--delay,0s)}
+.meter{transform-box:fill-box;transform-origin:center;animation:meter 2.6s ease-in-out infinite;animation-delay:var(--delay,0s)}
+.track{stroke-dasharray:8 8;animation:track 2s linear infinite}
+.steam{animation:steam 3.8s ease-out infinite;animation-delay:var(--delay,0s)}
+.orbit{transform-box:fill-box;transform-origin:center;animation:orbit 20s linear infinite}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+@keyframes float-small{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+@keyframes signal{to{stroke-dashoffset:-360}}
+@keyframes draw{0%,8%{stroke-dashoffset:1;opacity:.2}45%,88%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:.2}}
+@keyframes breath{0%,100%{opacity:.4}50%{opacity:1}}
+@keyframes meter{0%,100%{transform:scaleY(.4)}50%{transform:scaleY(1)}}
+@keyframes track{to{stroke-dashoffset:-32}}
+@keyframes steam{0%{transform:translateY(0);opacity:0}25%{opacity:.6}100%{transform:translate(8px,-24px);opacity:0}}
+@keyframes orbit{to{transform:rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important}.signal{stroke-dasharray:none;opacity:.45}.steam{opacity:.25}}
+</style>
+<rect x=".5" y=".5" width="639" height="189" rx="5" fill="var(--paper)" stroke="var(--line)"/>
+<path d="M1 5v180" stroke="var(--accent)" stroke-width="3"/>
+<text x="26" y="53" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="700" fill="var(--ink)">AI Audiobook Maker</text>
+<text x="26" y="108" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="400" fill="var(--muted)">Audiobook generation with</text>
+<text x="26" y="145" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="400" fill="var(--muted)">Gemini TTS and Lyria music.</text>
+<g transform="translate(484,2) scale(.5)"><g stroke="var(--muted)" fill="none" stroke-width="1.8"><path d="M150 62q-35-27-76-10v103q40-17 76 9 36-26 76-9V52q-41-17-76 10Z" fill="var(--art)"/><path d="M150 62v102M87 63q27-8 49 6m-49 10q27-8 49 6m-49 10q27-8 49 6" stroke="var(--line)"/><path d="M165 96.5v15" class="meter" style="--delay:-0.0s" stroke="var(--accent)" stroke-width="3" stroke-linecap="round"/><path d="M175 88.0v32" class="meter" style="--delay:-0.4s" stroke="var(--accent)" stroke-width="3" stroke-linecap="round"/><path d="M185 79.5v49" class="meter" style="--delay:-0.8s" stroke="var(--accent)" stroke-width="3" stroke-linecap="round"/><path d="M195 88.0v32" class="meter" style="--delay:-1.2000000000000002s" stroke="var(--accent)" stroke-width="3" stroke-linecap="round"/><path d="M205 96.5v15" class="meter" style="--delay:-1.6s" stroke="var(--accent)" stroke-width="3" stroke-linecap="round"/></g></g>
+</svg>

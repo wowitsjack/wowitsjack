@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="142" viewBox="0 0 1200 142" role="img" aria-labelledby="title desc">
+<title id="title">Bedside Lamp 2</title>
+<desc id="desc">ESPHome firmware, on-device lighting effects, and MCP control. Open the repository. Motion respects reduced-motion preferences.</desc>
+<style>
+:root{--paper:#f3f2ed;--ink:#242c26;--muted:#5b685d;--line:#cbd1c6;--accent:#944b2e;--art:#e6e9df;--glow:#d99c74}
+@media(prefers-color-scheme:dark){:root{--paper:#1b241e;--ink:#eff0e5;--muted:#adbaaa;--line:#42513f;--accent:#eba781;--art:#253324;--glow:#b27a56}}
+
+.float{animation:float 7s ease-in-out infinite}
+.float-small{animation:float-small 7s ease-in-out -1.4s infinite}
+.signal{stroke-dasharray:22 338;animation:signal 7s linear infinite;animation-delay:var(--delay,0s)}
+.draw{stroke-dasharray:1;stroke-dashoffset:0;animation:draw 8s ease-in-out infinite;animation-delay:var(--delay,0s)}
+.breath{animation:breath 5s ease-in-out infinite;animation-delay:var(--delay,0s)}
+.meter{transform-box:fill-box;transform-origin:center;animation:meter 2.6s ease-in-out infinite;animation-delay:var(--delay,0s)}
+.track{stroke-dasharray:8 8;animation:track 2s linear infinite}
+.steam{animation:steam 3.8s ease-out infinite;animation-delay:var(--delay,0s)}
+.orbit{transform-box:fill-box;transform-origin:center;animation:orbit 20s linear infinite}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+@keyframes float-small{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+@keyframes signal{to{stroke-dashoffset:-360}}
+@keyframes draw{0%,8%{stroke-dashoffset:1;opacity:.2}45%,88%{stroke-dashoffset:0;opacity:1}100%{stroke-dashoffset:0;opacity:.2}}
+@keyframes breath{0%,100%{opacity:.4}50%{opacity:1}}
+@keyframes meter{0%,100%{transform:scaleY(.4)}50%{transform:scaleY(1)}}
+@keyframes track{to{stroke-dashoffset:-32}}
+@keyframes steam{0%{transform:translateY(0);opacity:0}25%{opacity:.6}100%{transform:translate(8px,-24px);opacity:0}}
+@keyframes orbit{to{transform:rotate(360deg)}}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important}.signal{stroke-dasharray:none;opacity:.45}.steam{opacity:.25}}
+</style>
+<rect x=".5" y=".5" width="1199" height="141" rx="5" fill="var(--paper)" stroke="var(--line)"/>
+<path d="M1 5v132" stroke="var(--accent)" stroke-width="3"/>
+<text x="32" y="55" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="700" fill="var(--ink)">Bedside Lamp 2</text>
+<text x="32" y="97" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" fill="var(--muted)">ESPHome firmware, on-device lighting effects, and MCP control.</text>
+<g transform="translate(997,0) scale(.69)"><defs><radialGradient id="lamp-light"><stop stop-color="var(--glow)" stop-opacity=".55"/><stop offset="1" stop-color="var(--glow)" stop-opacity="0"/></radialGradient><linearGradient id="lamp-body" x1="0" y1="0" x2="1" y2="0"><stop stop-color="var(--art)"/><stop offset=".5" stop-color="var(--paper)"/><stop offset="1" stop-color="var(--art)"/></linearGradient></defs><ellipse cx="150" cy="89" rx="124" ry="92" fill="url(#lamp-light)" class="breath"/><g stroke="var(--muted)" fill="none" stroke-width="1.8"><path d="M98 53c0-25 104-25 104 0v99c0 25-104 25-104 0Z" fill="url(#lamp-body)"/><ellipse cx="150" cy="53" rx="52" ry="19" fill="var(--art)"/><path d="M98 145c0 24 104 24 104 0"/><path d="M150 89v47" stroke="var(--accent)" stroke-width="3" class="breath"/><circle cx="150" cy="149" r="3" stroke="var(--accent)"/></g></g>
+</svg>

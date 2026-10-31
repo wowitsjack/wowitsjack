@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320" role="img" aria-labelledby="title desc">
+<title id="title">freeMarkable</title>
+<desc id="desc">Open up your reMarkable. A jailbreak toolkit for reMarkable 1, 2, and Paper Pro. Open the repository. Motion respects reduced-motion preferences.</desc>
+<style>
+:root{--paper:#f3f2ed;--ink:#242c26;--muted:#5b685d;--line:#cbd1c6;--accent:#944b2e;--art:#e6e9df;--glow:#d99c74}
+@media(prefers-color-scheme:dark){:root{--paper:#1b241e;--ink:#eff0e5;--muted:#adbaaa;--line:#42513f;--accent:#eba781;--art:#253324;--glow:#b27a56}}
+
+.signal{stroke-dasharray:none;opacity:.45}.steam{opacity:.25}
+</style>
+<rect x=".5" y=".5" width="639" height="319" rx="5" fill="var(--paper)" stroke="var(--line)" />
+<path d="M1 5v310" stroke="var(--accent)" stroke-width="3" />
+<text x="28" y="74" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="700" fill="var(--ink)">freeMarkable</text>
+<g transform="translate(470,5) scale(.52)"><g transform="rotate(10 150 100)" fill="none" stroke="var(--muted)" stroke-width="1.6"><rect x="91" y="18" width="121" height="166" rx="7" fill="var(--art)" /><rect x="100" y="27" width="103" height="144" rx="2" fill="var(--paper)" /><path d="M112 49h59m-59 12h78m-78 12h51" stroke="var(--line)" /><path d="M113 124c7-35 19-36 25-13s18 20 24-8 14-22 26-12" stroke="var(--accent)" stroke-width="2.5" pathLength="1" class="draw" /><path d="M112 147h72" stroke="var(--accent)" pathLength="1" class="draw" style="--delay:-1s" /><path d="M226 36v121l-3 10-3-10V36Z" fill="var(--accent)" stroke="none" /></g></g>
+<text x="28" y="132" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="400" fill="var(--ink)">Open up your reMarkable.</text>
+<text x="28" y="190" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="400" fill="var(--muted)">A jailbreak toolkit for</text>
+<text x="28" y="226" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="400" fill="var(--muted)">reMarkable 1, 2, and Paper Pro.</text>
+<path d="M589 294l15-15m-15 0h15v15" fill="none" stroke="var(--accent)" stroke-width="2" />
+</svg>

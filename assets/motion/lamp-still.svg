@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="142" viewBox="0 0 1200 142" role="img" aria-labelledby="title desc">
+<title id="title">Bedside Lamp 2</title>
+<desc id="desc">ESPHome firmware, on-device lighting effects, and MCP control. Open the repository. Motion respects reduced-motion preferences.</desc>
+<style>
+:root{--paper:#f3f2ed;--ink:#242c26;--muted:#5b685d;--line:#cbd1c6;--accent:#944b2e;--art:#e6e9df;--glow:#d99c74}
+@media(prefers-color-scheme:dark){:root{--paper:#1b241e;--ink:#eff0e5;--muted:#adbaaa;--line:#42513f;--accent:#eba781;--art:#253324;--glow:#b27a56}}
+
+.signal{stroke-dasharray:none;opacity:.45}.steam{opacity:.25}
+</style>
+<rect x=".5" y=".5" width="1199" height="141" rx="5" fill="var(--paper)" stroke="var(--line)" />
+<path d="M1 5v132" stroke="var(--accent)" stroke-width="3" />
+<text x="32" y="55" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="700" fill="var(--ink)">Bedside Lamp 2</text>
+<text x="32" y="97" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" fill="var(--muted)">ESPHome firmware, on-device lighting effects, and MCP control.</text>
+<g transform="translate(997,0) scale(.69)"><defs><radialGradient id="lamp-light"><stop stop-color="var(--glow)" stop-opacity=".55" /><stop offset="1" stop-color="var(--glow)" stop-opacity="0" /></radialGradient><linearGradient id="lamp-body" x1="0" y1="0" x2="1" y2="0"><stop stop-color="var(--art)" /><stop offset=".5" stop-color="var(--paper)" /><stop offset="1" stop-color="var(--art)" /></linearGradient></defs><ellipse cx="150" cy="89" rx="124" ry="92" fill="url(#lamp-light)" class="breath" /><g stroke="var(--muted)" fill="none" stroke-width="1.8"><path d="M98 53c0-25 104-25 104 0v99c0 25-104 25-104 0Z" fill="url(#lamp-body)" /><ellipse cx="150" cy="53" rx="52" ry="19" fill="var(--art)" /><path d="M98 145c0 24 104 24 104 0" /><path d="M150 89v47" stroke="var(--accent)" stroke-width="3" class="breath" /><circle cx="150" cy="149" r="3" stroke="var(--accent)" /></g></g>
+</svg>
