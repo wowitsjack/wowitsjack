@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/header-mobile.svg">
-  <img src="assets/header.svg" width="1200" alt="wowitsjack. Open it up. Make it work. Security researcher and hardware engineer.">
+  <source media="(max-width: 600px)" srcset="assets/profile-hero-mobile.svg">
+  <img src="assets/profile-hero.svg" width="1200" alt="wowitsjack. Open it up. Make it work. Security researcher and hardware engineer.">
 </picture>
 
 I build tools that give people more control over their hardware. My work spans device research, embedded firmware, and making software run where it should.
